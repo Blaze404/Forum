@@ -114,7 +114,9 @@
                 <aside id="guest" class="guest">
                     <h2>Login As Guest</h2><br>
                     <div class="btn-div">
-                        <button class="button btn-primary inpu">Login as guest!</button>
+                        <form action="guestlogin.php">
+                        <button type="submit" class="button btn-primary inpu">Login as guest!</button>
+                        </form>
                     </div>
                     <p>Terms of Loging in as guest:<br> -> You cant comment on stuff<br> -> You cant like stuff<br> -> You can however bookmark stuff<br>
                     </p>
