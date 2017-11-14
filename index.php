@@ -1,8 +1,14 @@
 
 <html>
 <head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+    <!--Meta Tags-->
+    <meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="A forum for CSE Students"/>
+    <meta name="keywords" content="acolderblaze, CSE, forum, CSE forum, acolderblaze.tk, community, programming, web development, web, students"/>
+    <!--Meta Tages End-->
+    
 	<title>CSE Forum</title>
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="style.css" /> 
